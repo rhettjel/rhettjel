@@ -1,16 +1,20 @@
-## Hi there 👋
+👨‍💻 **Bitcoin Developer** | **Ordinal Developer** | **Rune Developer**
 
-<!--
-**rusgot/rusgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Passionate about blockchain technology and decentralized applications. I specialize in developing innovative solutions in the Bitcoin ecosystem, with a focus on Ordinals and Runes.
 
-Here are some ideas to get you started:
+🌟 **Projects & Contributions:**
+- 🚀 Developed [Specific Project/Repo Name] - A project aimed at [Brief Description].
+- 📊 Contributed to [Another Project/Repo Name] - Enhancing features related to `[specific function/feature]`.
+- 🛠️ Active involvement in the Bitcoin community, participating in discussions and collaborations to further the technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Skills:**
+- Proficient in Python, JavaScript, and Solidity.
+- Expertise in Bitcoin Core, Ordinals, and smart contract development.
+- Strong understanding of cryptographic principles and blockchain architecture.
+
+🌐 **Connect with Me:**
+- 💬 [Twitter Handle]
+- 🌍 [LinkedIn Profile]
+- 📝 [Personal Website or Blog]
+
+Let’s build the future of finance together! 🚀
