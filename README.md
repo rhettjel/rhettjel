@@ -9,7 +9,7 @@
 
 📚 **Skills:**
 - Proficient in Rust, Typpescript, and Solidity, Python.
-- Expertise in Bitcoin Script, Bitcoin Core, Ordinals, and smart contract development in Bitcoin Layer1 and Bitcoin Layer2.
+- Expertise in Bitcoin Script, Bitcoin Core, Ordinals, Runes, Tap protocol, ICP, DMT , Cat protocol and smart contract development in Bitcoin Layer1 and Bitcoin Layer2.
 - Strong understanding of cryptographic principles and blockchain architecture.
 
 🌐 **Connect with Me:**
