@@ -1,1 +1,1 @@
-👨‍💻 **Bitcoin Developer** | **Ordinal Developer** | **Rune Developer**
+👨‍💻 **Bitcoin Developer** | **Solana Developer**
