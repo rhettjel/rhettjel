@@ -1,1 +1,1 @@
-👨‍💻 **Bitcoin Developer** | **Solana Developer**
+👨‍💻 **Solana Developer** | **Bitcoin Developer**
